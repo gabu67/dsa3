@@ -40,3 +40,5 @@ print(f"  Sliced list [1:3]: {sliced}")
 print(f"  Iterating through my_list:")
 for item in my_list:
     print(f"  {item}")
+numbers.sort()
+print(f"  Sorted list: {my_list}")
